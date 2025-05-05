@@ -36,4 +36,5 @@ This project aims to present complex data in an accessible and engaging way, ens
 
 ## 📷 Preview
 
-"C:\Users\DHEEMAN JAIN\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 223420.png"
+![Screenshot 2025-03-06 223420](https://github.com/user-attachments/assets/9c6efa29-7d39-4180-8200-b166fa70c2e4)
+
