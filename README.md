@@ -36,6 +36,4 @@ This project aims to present complex data in an accessible and engaging way, ens
 
 ## 📷 Preview
 
-*Add screenshots here if desired, e.g., using Markdown image syntax:*
-```markdown
 ![Dashboard Preview]"C:\Users\DHEEMAN JAIN\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 223420.png"
